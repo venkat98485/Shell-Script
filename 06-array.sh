@@ -1,3 +1,3 @@
 #! /bin/bash
-movies= ("venkat" "gopi" "madhu")
+movies=("venkat" "gopi" "madhu")
 echo first movie=${movies[0]}
