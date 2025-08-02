@@ -1,4 +1,4 @@
-read -p "enter the number:"number
+read -p "enter the number:" number
 if [ number -lt 10 ]
 then
 echo "given $number is less than 10"
