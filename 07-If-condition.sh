@@ -4,4 +4,5 @@ then
 echo "given $number is less than 10"
 else
 echo  "given $number is more than 10"
+fi
 
