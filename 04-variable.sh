@@ -1,4 +1,4 @@
-! /bin/bash
+#! /bin/bash
 Person1=$1
 Person2=$2
 echo "$Person1: Hey Musk How are you"
